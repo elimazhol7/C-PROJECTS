@@ -1,3 +1,3 @@
 # C++ Projects 
 
-This is the repository to store my C++ beginner-friendly projects🤍
+This repository is for storing CSC 122 projects.
